@@ -250,6 +250,6 @@ I'm always interested in connecting with developers, collaborating on projects, 
 
 <div align="center">
 
-⚙️ Engineering solutions, one commit at a time.
+Engineering solutions, one commit at a time.
 
 </div>
