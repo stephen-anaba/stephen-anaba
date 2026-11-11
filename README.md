@@ -52,7 +52,7 @@ I enjoy the entire software development lifecycle — from problem analysis and 
 Programming Languages
 
 <p>
- <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="Programming languages"/>
+ <img src="https://skillicons.dev/icons?i=cpp,swift,python,js,ts" alt="Programming languages"/>
 </p>
 
 Frontend Development
