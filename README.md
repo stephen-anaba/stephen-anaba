@@ -7,7 +7,7 @@
 <div align="center">
 
 ## Stephen Anaba
-Software Engineer | C++ | | Swift | TypeScript | JavaScript | Node.js
+Software Engineer | C++ | Swift | TypeScript | JavaScript | Node.js
 
 <a href="https://github.com/stephen-anaba">
  <img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub](https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A0f172a%2C100%3A1e3a8a&section=header&reversal=false&text=Stephen+Anaba&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)"/>
