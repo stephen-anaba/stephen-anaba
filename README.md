@@ -98,29 +98,22 @@ Here are some projects that demonstrate my technical skills, engineering knowled
 
 CacheScope is an interactive CPU cache simulation and visualization platform designed to make computer memory hierarchy concepts easier to understand.
 
-#### Key Engineering Areas:
-- Cache mapping
-- Cache replacement policies: LRU and FIFO
-- Memory address decomposition into tag, index, and offset
-- Cache hit/miss simulation and performance metrics
-- Modular architecture and requirements-driven design
-
 ### Technologies:
 
 #### Frontend
-• TypeScript
-• Vite
-• Web Components
-• HTML/CSS
-• SVG/Canvas Visualization.
+- TypeScript
+- Vite
+- Web Components
+- HTML/CSS
+- SVG/Canvas Visualization.
 
-#### Backend
-• C++
-• CMake
-• Custom HashSet implementation
-• REST API architecture
-• GitHub Actions
-• Markdown-based architecture documentation.
+#### Backend. 
+- C++
+- CMake
+- Custom HashSet implementation
+- REST API architecture
+- GitHub Actions
+- Markdown-based architecture documentation.
 
 </td>
 <td width="50%">
@@ -133,12 +126,12 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 
 ### Technologies:
 
-• Swift
-• SwiftUI
-• Local Persistence (UserDefaults / file storage)
-• Caching
-• REST API integration
-• Knapsack Optimization.
+- Swift
+- SwiftUI
+- Local Persistence (UserDefaults / file storage)
+- Caching
+- REST API integration
+- Knapsack Optimization.
 
 </td>
 </tr>
@@ -152,12 +145,11 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 This project solves the problem of finding the shortest collision-free route between two points in a grid-based environment using an efficient and systematic search algorithm. 
 
 ### Technologies:
-
-• Python
-• Breadth FirstSsearch (BFS)
-• Lists, sets, dictionaries, and queue data structures
-• Collections library
-• Object-Oriented Programming (OOP) paradigm
+- Python
+- Breadth FirstSsearch (BFS)
+- Lists, sets, dictionaries, and queue data structures
+- Collections library
+- Object-Oriented Programming (OOP) paradigm
 
 </td>
 <td width="50%">
@@ -165,18 +157,16 @@ This project solves the problem of finding the shortest collision-free route bet
 ## Project 4
 
 ### Leftover Food Tracker
-
 This project demonstrates full-stack software engineering systems programming and multi-language integration. It is designed to minimize food waste by matching user inventory to recipes. My contribution to this project was to design and implement all the backend user-defined classes in the domain layer.
 
 ### Technologies:
-
-• C++
-• C 
-• Python
-• Object-oriented Programming (OOP)
-• Makefile 
-• HTML 
-• CSS
+- C++
+- C
+- Python
+- Object-oriented Programming (OOP)
+- Makefile
+- HTML
+- CSS
 
 </td>
 </tr>
@@ -189,18 +179,17 @@ This project demonstrates full-stack software engineering systems programming an
 <!-- ===================================================== -->
 
 ## Software Engineering Interests
-
-• Object-Oriented Programming (OOP)
-• SOLID Principles and Clean Code
-• Data Structures and Algorithms
-• Design Patterns
-• Machine Learning
-• RESTful API Development
-• Database Design and Management
-• Software Testing and Debugging
-• Version Control and Collaboration
-• Agile Software Development
-• System Design and Architecture
+- Object-Oriented Programming (OOP)
+- SOLID Principles and Clean Code
+- Data Structures and Algorithms
+- Design Patterns
+- Machine Learning
+- RESTful API Development
+- Database Design and Management
+- Software Testing and Debugging
+- Version Control and Collaboration
+- Agile Software Development
+- System Design and Architecture
 
 <!-- ===================================================== -->
 
@@ -209,11 +198,11 @@ This project demonstrates full-stack software engineering systems programming an
 <!-- ===================================================== -->
 
 ## Currently Learning
-• Improving software architecture and design skills
-• Exploring scalable backend development
-• Strengthening testing and automation practices
-• Artificial Intelligence and Machine Learning
-• Learning modern development workflows and CI/CD
+- Improving software architecture and design skills
+- Exploring scalable backend development
+- Strengthening testing and automation practices
+- Artificial Intelligence and Machine Learning
+- Learning modern development workflows and CI/CD
 
 <!-- ===================================================== -->
 
