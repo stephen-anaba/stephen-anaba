@@ -92,21 +92,22 @@ Here are some projects that demonstrate my technical skills, engineering knowled
 <tr>
 <td width="50%">
 
-## PROJECT 1
+## Project 1
 
 ### CacheScope
 
 CacheScope is an interactive CPU cache simulation and visualization platform designed to help students, educators, and systems programmers better understand cache architecture, memory mapping, and runtime cache behavior. The project combines computer architecture concepts with formal software engineering practices, including requirements-driven development, UML modeling, GRASP-based design, and modular simulation architecture.
 
-**Technologies:**
-**Frontend**
+### Technologies:
+
+#### Frontend
 • TypeScript
 • Vite
 • Web Components
 • HTML/CSS
 • SVG/Canvas Visualization.
 
-**Backend**
+#### Backend
 • C++
 • CMake
 • Custom HashSet implementation
@@ -117,7 +118,7 @@ CacheScope is an interactive CPU cache simulation and visualization platform des
 </td>
 <td width="50%">
 
-## PROJECT 2
+## Project 2
 
 ### MealEngine
 
@@ -137,7 +138,7 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 <tr>
 <td width="50%">
 
-## PROJECT 3
+## Project 3
 
 ### Grid-based Pathfinder Agent
 
@@ -154,7 +155,7 @@ This project solves the problem of finding the shortest collision-free route bet
 </td>
 <td width="50%">
 
-## PROJECT 4
+## Project 4
 
 ### Leftover Food Tracker
 
