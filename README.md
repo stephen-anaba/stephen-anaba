@@ -35,12 +35,6 @@ I work primarily with C++, JavaScript, TypeScript, and web technologies. My inte
 
 I enjoy understanding problems deeply, designing maintainable solutions, and translating software engineering concepts into working applications.
 
-## Technical Skills
-
-| Area | Technologies |
-| :--- | :--- | :--- |
-| Programming | C++, JavaScript, Type
-
 <!-- ===================================================== -->
 
 <!-- TECH STACK -->
