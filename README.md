@@ -117,7 +117,7 @@ CacheScope is an interactive CPU cache simulation and visualization platform des
 </td>
 <td width="50%">
 
-## PROJECT TWO
+## PROJECT 2
 
 ### MealEngine
 
@@ -140,14 +140,14 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 
 ### Grid-based Pathfinder Agent
 
-This project solves the problem of finding the shortest collision-free route between two points in a grid-based environment using an efficient and systematic search algorithm.
+This project solves the problem of finding the shortest collision-free route between two points in a grid-based environment using an efficient and systematic search algorithm. 
 
 ### Technologies:
-• Python.
-• Breadth FirstSsearch (BFS).
-• Lists, sets, dictionaries, and queue data structures. 
-• Collections library.
-• Object-Oriented Programming (OOP) paradigm.
+• Python
+• Breadth FirstSsearch (BFS)
+• Lists, sets, dictionaries, and queue data structures
+• Collections library
+• Object-Oriented Programming (OOP) paradigm
 
 </td>
 <td width="50%">
@@ -156,7 +156,7 @@ This project solves the problem of finding the shortest collision-free route bet
 
 ### Leftover Food Tracker
 
-This project demonstrates full-stack software engineering systems programming and multi-language integration. It is designed to minimize food waste by matching user inventory to recipes.
+This project demonstrates full-stack software engineering systems programming and multi-language integration. It is designed to minimize food waste by matching user inventory to recipes. My contribution to this project was to design and implement all the backend user-defined classes in the domain layer.
 
 **Technologies:**
 • C++
