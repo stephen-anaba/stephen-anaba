@@ -123,7 +123,8 @@ CacheScope is an interactive CPU cache simulation and visualization platform des
 
 MealEngine is an iOS app with optimized meal recommendations that help the user meet their dietary goals before (not after) meals are consumed. The functionalities include user settings, food search, smart recommendations, meal logging, and nutrition tracking. My contribution to this project include the conceptual idea, the minimum viable product comprising the optimization algorithm, local persistence, REST API integration, SwiftUI, disk and memory caching, input validation, MVVM architecture, and documentation.
 
-**Technologies:** 
+### Technologies:
+
 • Swift
 • SwiftUI
 • Local Persistence (UserDefaults / file storage)
@@ -143,6 +144,7 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 This project solves the problem of finding the shortest collision-free route between two points in a grid-based environment using an efficient and systematic search algorithm. 
 
 ### Technologies:
+
 • Python
 • Breadth FirstSsearch (BFS)
 • Lists, sets, dictionaries, and queue data structures
@@ -158,7 +160,8 @@ This project solves the problem of finding the shortest collision-free route bet
 
 This project demonstrates full-stack software engineering systems programming and multi-language integration. It is designed to minimize food waste by matching user inventory to recipes. My contribution to this project was to design and implement all the backend user-defined classes in the domain layer.
 
-**Technologies:**
+### Technologies:
+
 • C++
 • C 
 • Python
@@ -178,6 +181,7 @@ This project demonstrates full-stack software engineering systems programming an
 <!-- ===================================================== -->
 
 ## Software Engineering Interests
+
 • Object-Oriented Programming (OOP)
 • SOLID Principles and Clean Code
 • Data Structures and Algorithms
