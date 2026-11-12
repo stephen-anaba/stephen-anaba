@@ -7,9 +7,7 @@
 <div align="center">
 
 ## Stephen Anaba
-Computer Science Graduate | Software Engineering
-
-Building reliable software. Solving problems. Learning continuously.
+Software Engineer | C++ | | Swift | TypeScript | JavaScript | Node.js
 
 <a href="https://github.com/stephen-anaba">
  <img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub](https://capsule-render.vercel.app/api?type=waving&height=200&color=0%3A0f172a%2C100%3A1e3a8a&section=header&reversal=false&text=Stephen+Anaba&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)"/>
@@ -31,16 +29,17 @@ Building reliable software. Solving problems. Learning continuously.
 
 ## About Me
 
-I'm a Computer Science graduate with a concentration in Software Engineering, interested in designing, building, and maintaining modular and scalable software solutions that solve real-world problems.
+I'm a Computer Science graduate specializing in Software Engineering, interested in building reliable, modular software and solving practical engineering problems.
 
-I enjoy the entire software development lifecycle — from problem analysis and system design to implementation, testing, and deployment.
+I work primarily with C++, JavaScript, TypeScript, and web technologies. My interests span systems programming, backend development, software architecture, and full-stack application development.
 
-- Computer Science Graduate — Software Engineering Concentration.
-- Interested in Software Engineering, Full-stack Development, and System Design.
-- Passionate about writing clean, maintainable, and efficient code.
-- Interested in software testing, quality assurance, and best practices.
-- Continuously expanding my technical knowledge.
-- Building projects that combine creativity, problem-solving and practical engineering.
+I enjoy understanding problems deeply, designing maintainable solutions, and translating software engineering concepts into working applications.
+
+## Technical Skills
+
+| Area | Technologies |
+| :--- | :--- | :--- |
+| Programming | C++, JavaScript, Type
 
 <!-- ===================================================== -->
 
@@ -49,16 +48,16 @@ I enjoy the entire software development lifecycle — from problem analysis and 
 <!-- ===================================================== -->
 
 ## Technical Skills
-Programming Languages
+Programming
 
 <p>
- <img src="https://skillicons.dev/icons?i=cpp,swift,python,js,ts" alt="Programming languages"/>
+ <img src="https://skillicons.dev/icons?i=cpp,swift,js,ts" alt="Programming languages"/>
 </p>
 
 Frontend Development
 
 <p>
- <img src="https://skillicons.dev/icons?i=html,css,react,typescript" alt="Frontend technologies"/>
+ <img src="https://skillicons.dev/icons?i=html,css,typescript" alt="Frontend technologies"/>
 </p>
 
 Backend Development
@@ -76,7 +75,13 @@ Databases
 Tools & Development Environment
 
 <p>
- <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux" alt="Developer tools"/>
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux,cmake,make" alt="Developer tools"/>
+</p>
+
+Academic Experience
+
+<p>
+ <img src="https://skillicons.dev/icons?i=python,java" alt="Academic experience"/>
 </p>
 
 <!-- ===================================================== -->
@@ -93,7 +98,7 @@ Here are some projects that demonstrate my technical skills, engineering knowled
 <tr>
 <td width="50%">
 
-## PROJECT ONE
+## PROJECT 1
 
 ### CacheScope
 
@@ -128,6 +133,7 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 • Swift
 • SwiftUI
 • Local Persistence (UserDefaults / file storage)
+• Caching
 • REST API integration
 • Knapsack Optimization.
 
@@ -136,33 +142,36 @@ MealEngine is an iOS app with optimized meal recommendations that help the user 
 <tr>
 <td width="50%">
 
-## PROJECT THREE
+## PROJECT 3
 
 ### Grid-based Pathfinder Agent
 
-The project solves the problem of finding the shortest collision-free route between two points in a grid-based environment using an efficient and systematic search algorithm. Describe an interesting software engineering challenge you solved.
+This project solves the problem of finding the shortest collision-free route between two points in a grid-based environment using an efficient and systematic search algorithm.
 
 ### Technologies:
-**Program Language** - Python.
-**Algorithm** - breadth first search (BFS).
-**Data Structures** - lists • sets • dictionaries • queue. 
-**Python Library** - collections.
-**Programming Paradigm** - Object Oriented Programming (OOP).
+• Python.
+• Breadth FirstSsearch (BFS).
+• Lists, sets, dictionaries, and queue data structures. 
+• Collections library.
+• Object-Oriented Programming (OOP) paradigm.
 
 </td>
 <td width="50%">
 
-## PROJECT FOUR
+## PROJECT 4
 
 ### Leftover Food Tracker
 
 This project demonstrates full-stack software engineering systems programming and multi-language integration. It is designed to minimize food waste by matching user inventory to recipes.
 
-**Core Logic (`C++` / `C`):** Handles data parsing • memory management • and ingredient-matching algorithms.
-**Middleware & UI (`Python` / `HTML` / `CSS`):** Routes user queries from the browser to compiled backend binaries.
-**Build System (`Makefile`):** Automates multi-file compilation and dependency linking.
-
-Technologies: C++ • C • Python • Makefile • HTML • CSS
+**Technologies:**
+• C++
+• C 
+• Python
+• Object-oriented Programming (OOP)
+• Makefile 
+• HTML 
+• CSS
 
 </td>
 </tr>
@@ -176,9 +185,10 @@ Technologies: C++ • C • Python • Makefile • HTML • CSS
 
 ## Software Engineering Interests
 • Object-Oriented Programming (OOP)
-• SOLD Principles and Clean Code
+• SOLID Principles and Clean Code
 • Data Structures and Algorithms
 • Design Patterns
+• Machine Learning
 • RESTful API Development
 • Database Design and Management
 • Software Testing and Debugging
@@ -196,6 +206,7 @@ Technologies: C++ • C • Python • Makefile • HTML • CSS
 • Improving software architecture and design skills
 • Exploring scalable backend development
 • Strengthening testing and automation practices
+• Artificial Intelligence and Machine Learning
 • Learning modern development workflows and CI/CD
 
 <!-- ===================================================== -->
@@ -216,11 +227,11 @@ Technologies: C++ • C • Python • Makefile • HTML • CSS
 
 ## Contribution Activity
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-anaba&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" width="100%"/>
 
-</div>
+</div> -->
 
 <!-- ===================================================== -->
 
