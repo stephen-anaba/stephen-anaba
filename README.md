@@ -202,7 +202,7 @@ This project demonstrates full-stack software engineering systems programming an
 - Exploring scalable backend development
 - Strengthening testing and automation practices
 - Artificial Intelligence and Machine Learning
-- Learning modern development workflows and CI/CD
+- Modern development workflows and CI/CD
 
 <!-- ===================================================== -->
 
