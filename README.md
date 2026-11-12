@@ -96,7 +96,14 @@ Here are some projects that demonstrate my technical skills, engineering knowled
 
 ### CacheScope
 
-CacheScope is an interactive CPU cache simulation and visualization platform designed to help students, educators, and systems programmers better understand cache architecture, memory mapping, and runtime cache behavior. The project combines computer architecture concepts with formal software engineering practices, including requirements-driven development, UML modeling, GRASP-based design, and modular simulation architecture.
+CacheScope is an interactive CPU cache simulation and visualization platform designed to make computer memory hierarchy concepts easier to understand.
+
+#### Key Engineering Areas:
+- Cache mapping
+- Cache replacement policies: LRU and FIFO
+- Memory address decomposition into tag, index, and offset
+- Cache hit/miss simulation and performance metrics
+- Modular architecture and requirements-driven design
 
 ### Technologies:
 
