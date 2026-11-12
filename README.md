@@ -107,13 +107,13 @@ CacheScope is an interactive CPU cache simulation and visualization platform des
 - HTML/CSS
 - SVG/Canvas Visualization.
 
-#### Backend. 
+#### Backend
 - C++
 - CMake
 - Custom HashSet implementation
 - REST API architecture
 - GitHub Actions
-- Markdown-based architecture documentation.
+- Markdown-based architecture documentation
 
 </td>
 <td width="50%">
@@ -122,7 +122,15 @@ CacheScope is an interactive CPU cache simulation and visualization platform des
 
 ### MealEngine
 
-MealEngine is an iOS app with optimized meal recommendations that help the user meet their dietary goals before (not after) meals are consumed. The functionalities include user settings, food search, smart recommendations, meal logging, and nutrition tracking. My contribution to this project include the conceptual idea, the minimum viable product comprising the optimization algorithm, local persistence, REST API integration, SwiftUI, disk and memory caching, input validation, MVVM architecture, and documentation.
+MealEngine is an iOS app with optimized meal recommendations that help the user meet their dietary goals before (not after) meals are consumed. The functionalities include user settings, food search, smart recommendations, meal logging, and nutrition tracking. 
+
+#### My Contributions
+- Conceptual idea and MVP development
+- Optimization algorithm
+- Local persistence
+- REST API integration
+- Caching and input validation
+- MVVM architecture and documentation.
 
 ### Technologies:
 
