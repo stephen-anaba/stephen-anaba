@@ -231,13 +231,13 @@ This project demonstrates full-stack software engineering systems programming an
 
 </div>
 
-## Contribution Activity
+<!-- <div align="center">
 
-<div align="center">
+## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-anaba&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity" width="100%"/>
 
-</div>
+</div> -->
 
 <!-- ===================================================== -->
 
